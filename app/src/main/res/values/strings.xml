@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Currency browser</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="check_box_USD">USD</string>
+    <string name="check_box_AUD">AUD</string>
+    <string name="check_box_CAD">CAD</string>
+    <string name="check_box_EUR">EUR</string>
+    <string name="check_box_CHF">CHF</string>
+    <string name="check_box_JPY">JPY</string>
+    <string name="check_box_CZK">CZK</string>
+    <string name="action_refresh">Refresh</string>
+</resources>
